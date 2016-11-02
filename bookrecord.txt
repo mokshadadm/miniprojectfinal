@@ -1,0 +1,9 @@
+
+1234 	 eragon 	 chris 	 fiction 	 500.000000 	 0
+1235 	 hardy 	 enid 	 children 	 50.000000 	 10
+1236 	 sherlock 	 arthur 	 mystery 	 300.000000 	 0
+1237 	 wings 	 apj 	 biography 	 100.000000 	 0
+1238 	 harry 	 jkr 	 fiction 	 300.000000 	 0
+1239 	 eldest 	 christopher 	 fiction 	 400.000000 	 0
+1240 	 inferno 	 dan 	 fiction 	 400.000000 	 0
+1241 	 p.s 	 nicholas 	 romance 	 500.000000 	 0
